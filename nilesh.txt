@@ -1,0 +1,2 @@
+Create Project
+create playwright project with TypeScript language under PlaywrightTS folder
